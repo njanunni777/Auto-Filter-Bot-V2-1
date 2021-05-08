@@ -9,32 +9,32 @@
         "TroJanzHEX"
     ],
     "website": "https://TroJanzHEX.me",
-    "repository": "https://github.com/TroJanzHEX/Auto-Filter-Bot-V2",
-    "success_url": "https://telegram.dog/TroJanzHEX",
+    "repository": "https://github.com/Sh-Jil/Auto-Filter-Bot-V2",
+    "success_url": "https://telegram.dog/shijilraj",
     "env": {
         "TG_BOT_TOKEN": {
             "description": "You Telegram Bot Token from @BotFather",
-            "value": ""
+            "value": "1626088153:AAFx_MFV2LIYt9y8eQh0J3vdhlHl_A8B5RA"
         },
         "API_HASH": {
             "description": "Your API Hash from my.telegram.org or @UseTGXBot",
-            "value": ""
+            "value": "6b21cb22818e09132fb904705c31d3a1"
         },
         "APP_ID": {
             "description": "Your APP ID from my.telegram.org or @UseTGXBot",
-            "value": ""
+            "value": "1479154"
         },
         "TG_USER_SESSION": {
             "description": "A pyrogram user session string. Generate from https://repl.it/@prgofficial/String-Gen",
-            "value": ""
+            "value": "BQAFfzwSEWEy45W1iTrGarycJPJRKRi2jSql3kxdmeTumm7R2wsNMmHc0yj64osRge1H5yiHRphQl7_0LQu1-eY1_en29Rjx8GXSodikz34uex_Ik3o5ntc0YrKsCBvlEgO1JN2of862lq7mzLXOhxOdmQ4G5p81eqeqUdvQpPB8gSQzXg6CnNgdv0UcifBlF6Vw0HZ0JL1wU2llwa4m8XSCFUyin8u9ZYoloD2yCCNmXMcEc0Im8q7iWMofN5CQGwbTFxgr-hh1ZZCT7Y_BPqGBl1EWNQS23usbHQfpZDZQvx0LUiBzSg9QCHbgf0Z_DpdLM0GYZBHJivHH4c_TG8sRK1W33QAqFKUTAKfClndeXn8rC82PlyItFgSlOwBMjSfvWzATBZhV1tJMFPYw9qROydD_NlF24SY_y5KsVDWMVqGJL1uK1W33QA"
         },
         "AUTH_USERS": {
             "description": "ID of users that can use the bot commands",
-            "value": ""
+            "value": "727037917"
         },
         "DATABASE_URI": {
             "description": "Database URL from https://cloud.mongodb.com/",
-            "value": ""
+            "value": "mongodb+srv://Shijilraj:9747355576@cluster0.yd0a2.mongodb.net/Cluster0?retryWrites=true&w=majority"
         },
         "DATABASE_NAME": {
             "description": "Your database name from mongoDB. ( Default will 'Cluster0' )",
@@ -46,7 +46,7 @@
         },
         "VID_SEARCH": {
             "description": "Should bot search for video files in channels ( Give 'yes' or 'no' )",
-            "value": "no"
+            "value": "yes"
         },
         "MUSIC_SEARCH": {
             "description": "Should bot search for music files in channels ( Give 'yes' or 'no' )",
