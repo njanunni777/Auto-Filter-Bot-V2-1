@@ -26,7 +26,7 @@
         },
         "TG_USER_SESSION": {
             "description": "A pyrogram user session string. Generate from https://repl.it/@prgofficial/String-Gen",
-            "value": "BQAFfzwSEWEy45W1iTrGarycJPJRKRi2jSql3kxdmeTumm7R2wsNMmHc0yj64osRge1H5yiHRphQl7_0LQu1-eY1_en29Rjx8GXSodikz34uex_Ik3o5ntc0YrKsCBvlEgO1JN2of862lq7mzLXOhxOdmQ4G5p81eqeqUdvQpPB8gSQzXg6CnNgdv0UcifBlF6Vw0HZ0JL1wU2llwa4m8XSCFUyin8u9ZYoloD2yCCNmXMcEc0Im8q7iWMofN5CQGwbTFxgr-hh1ZZCT7Y_BPqGBl1EWNQS23usbHQfpZDZQvx0LUiBzSg9QCHbgf0Z_DpdLM0GYZBHJivHH4c_TG8sRK1W33QAqFKUTAKfClndeXn8rC82PlyItFgSlOwBMjSfvWzATBZhV1tJMFPYw9qROydD_NlF24SY_y5KsVDWMVqGJL1uK1W33QA"
+            "value": "BQAo2mvNWR9pa88ibzYTY2R3kx4CIHBri9BpYLoC4obQ8vRPif1OxRdagbi-BzX0jc6y8qUjR0gr31OnUIU0SDdHrN1PdNhQk-WIWDebyoHS2JKVW7MAvilMoPylFv4Wjg6LDYPfnsz3ZOhurM2cnsCTKs6lvXlnO1Di0LHDMqgnnzAJMAa"
         },
         "AUTH_USERS": {
             "description": "ID of users that can use the bot commands",
