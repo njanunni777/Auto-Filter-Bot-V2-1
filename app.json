@@ -14,19 +14,19 @@
     "env": {
         "TG_BOT_TOKEN": {
             "description": "You Telegram Bot Token from @BotFather",
-            "value": "1626088153:AAFx_MFV2LIYt9y8eQh0J3vdhlHl_A8B5RA"
+            "value": ""
         },
         "API_HASH": {
             "description": "Your API Hash from my.telegram.org or @UseTGXBot",
-            "value": "6b21cb22818e09132fb904705c31d3a1"
+            "value": ""
         },
         "APP_ID": {
             "description": "Your APP ID from my.telegram.org or @UseTGXBot",
-            "value": "1479154"
+            "value": ""
         },
         "TG_USER_SESSION": {
             "description": "A pyrogram user session string. Generate from https://repl.it/@prgofficial/String-Gen",
-            "value": "BQAo2mvNWR9pa88ibzYTY2R3kx4CIHBri9BpYLoC4obQ8vRPif1OxRdagbi-BzX0jc6y8qUjR0gr31OnUIU0SDdHrN1PdNhQk-WIWDebyoHS2JKVW7MAvilMoPylFv4Wjg6LDYPfnsz3ZOhurM2cnsCTKs6lvXlnO1Di0LHDMqgnnzAJMAa"
+            "value": ""
         },
         "AUTH_USERS": {
             "description": "ID of users that can use the bot commands",
@@ -34,7 +34,7 @@
         },
         "DATABASE_URI": {
             "description": "Database URL from https://cloud.mongodb.com/",
-            "value": "mongodb+srv://Shijilraj:9747355576@cluster0.yd0a2.mongodb.net/Cluster0?retryWrites=true&w=majority"
+            "value": ""
         },
         "DATABASE_NAME": {
             "description": "Your database name from mongoDB. ( Default will 'Cluster0' )",
