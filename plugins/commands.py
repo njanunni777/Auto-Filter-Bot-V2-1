@@ -22,7 +22,7 @@ async def start(client, message):
                     ],
                     [
                         InlineKeyboardButton(
-                            "⭕️ JOIN OUR CHANNEL ⭕️", url="https://t.me/cinemapranthanmaar")
+                            "⭕️ JOIN OUR CHANNEL ⭕️", url="https://t.me/pdxmoviesmp4")
                     ]
                 ]
             ),
@@ -45,7 +45,7 @@ async def help(client, message):
                     ],
                     [
                         InlineKeyboardButton(
-                            "⭕️ SUPPORT ⭕️", url="https://t.me/Shijilraj")
+                            "⭕️ GROUP ⭕️", url="https://t.me/pdxmoviesmp4")
                     ]
                 ]
             ),
@@ -68,7 +68,7 @@ async def about(client, message):
                     ],
                     [
                         InlineKeyboardButton(
-                            "SOURCE CODE", url="https://github.com/Sh-Jil/Auto-Filter-Bot-V2")
+                            "GROUP LINK", url="https://t.me/pdxmoviesmp4")
                     ]
                 ]
             ),
